@@ -73,7 +73,7 @@ Forking creates an independent copy of a repository under your GitHub account. T
 
 #### Fork Repository Steps: 
 
-1. Navigate to the repository you want to fork 
+1. Navigate to the repository you want to fork in our case [https://github.com/stjohns-edu/hello-world](https://github.com/stjohns-edu/hello-world)
 2. Click the "Fork" button in the top-right corner 
 3. Select your account as the destination 
 4. Wait for the forking process to complete 
