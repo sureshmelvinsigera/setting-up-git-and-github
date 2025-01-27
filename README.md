@@ -17,7 +17,7 @@ This guide introduces GitHub, a leading platform for version control and collabo
  
 ### Installing Git 
 
-The most official build is available for download on the Git website. Just go to https://git-scm.com/download and the download will start automatically. 
+The most official build is available for download on the Git website. Just go to [https://git-scm.com/downloads](https://git-scm.com/downloads) and the download will start automatically. 
 
 #### Creating a GitHub Account 
 
