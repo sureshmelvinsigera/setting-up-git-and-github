@@ -19,7 +19,7 @@ This guide introduces GitHub, a leading platform for version control and collabo
 
 The most official build is available for download on the Git website. Just go to [https://git-scm.com/downloads](https://git-scm.com/downloads) and the download will start automatically. 
 
-#### Creating a GitHub Account 
+### Creating a GitHub Account 
 
 Your GitHub account serves as your digital identity in the vast developer community. It's more than just a username—it's your portfolio, collaboration hub, and gateway to contributing to projects worldwide. Creating an account is your first step toward participating in the open-source ecosystem and building your presence in the development community. 
 
