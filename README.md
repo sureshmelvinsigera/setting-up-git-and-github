@@ -8,7 +8,6 @@ By the end of this guide, you will be able to:
 - Generate and implement SSH keys for secure authentication  
 - Fork existing repositories and clone them to your local machine  
 - Make changes and push updates to repositories  
-- Create pull requests for code collaboration Apply 
 - Git best practices for version control 
 
 ### Introduction 
