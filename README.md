@@ -47,7 +47,7 @@ Open your terminal (Command Prompt/PowerShell for Windows, Terminal for macOS/Li
 The SSH key generated needs to be added to your GitHub account to establish the secure connection. This process involves copying your public key and registering it with GitHub's authentication system. 
 
 1. Copy your SSH public key:
-   - macOS/Linux: `cat ~/.ssh/id_ed25519.pub | pbcopy` 
+   - macOS/Linux: `cat /Users/username/.ssh/id_ed25519.pub | pbcopy` 
    - Windows (PowerShell): `Get-Content $env:USERPROFILE\.ssh\id_ed25519.pub | Set-Clipboard` 
 2. Add key to GitHub:
    - Go to GitHub → Settings → SSH and GPG keys 
